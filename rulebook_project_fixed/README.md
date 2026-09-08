@@ -2,9 +2,9 @@
 
 An evidence-first FastAPI QA service over a mixed-format student-rule corpus.
 
-## What is fixed
+## Key features
 
-- PDF + Markdown + CSV ingestion.
+- Accepts PDF + Markdown + CSV ingestion.
 - 13k+ word benchmark corpus with 3 explicitly registered planted contradictions.
 - Structure-aware citations: source, page where available, section reference, exact passage and similarity score.
 - Three-way decision: `ANSWERED`, `NOT_COVERED`, `CONFLICT`.
