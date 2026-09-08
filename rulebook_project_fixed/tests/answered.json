@@ -1,0 +1,127 @@
+[
+  {
+    "id": "A01",
+    "question": "What is the minimum pass percentage for each paper?",
+    "expected_status": "ANSWERED"
+  },
+  {
+    "id": "A02",
+    "question": "How many grace marks can the University award?",
+    "expected_status": "ANSWERED"
+  },
+  {
+    "id": "A03",
+    "question": "How long can a library book normally be issued for?",
+    "expected_status": "ANSWERED"
+  },
+  {
+    "id": "A04",
+    "question": "What is the overdue library fine for the first seven days?",
+    "expected_status": "ANSWERED"
+  },
+  {
+    "id": "A05",
+    "question": "How many credits does a BCA student need for the degree?",
+    "expected_status": "ANSWERED"
+  },
+  {
+    "id": "A06",
+    "question": "How many years are allowed to complete the BCA programme?",
+    "expected_status": "ANSWERED"
+  },
+  {
+    "id": "A07",
+    "question": "How long does a student have to apply for rechecking after results?",
+    "expected_status": "ANSWERED"
+  },
+  {
+    "id": "A08",
+    "question": "Who conducts the semester-end examinations?",
+    "expected_status": "ANSWERED"
+  },
+  {
+    "id": "A09",
+    "question": "Where are semester-end examinations conducted?",
+    "expected_status": "ANSWERED"
+  },
+  {
+    "id": "A10",
+    "question": "What must a student possess to appear in each semester-end paper?",
+    "expected_status": "ANSWERED"
+  },
+  {
+    "id": "A11",
+    "question": "How early does the Director have to announce students detained for attendance shortage?",
+    "expected_status": "ANSWERED"
+  },
+  {
+    "id": "A12",
+    "question": "Can students repeat a failed semester-end course?",
+    "expected_status": "ANSWERED"
+  },
+  {
+    "id": "A13",
+    "question": "What happens if a student is detained for attendance shortage?",
+    "expected_status": "ANSWERED"
+  },
+  {
+    "id": "A14",
+    "question": "What percentage is the semester-end written examination worth for theory papers?",
+    "expected_status": "ANSWERED"
+  },
+  {
+    "id": "A15",
+    "question": "What percentage is continuous evaluation worth for theory papers?",
+    "expected_status": "ANSWERED"
+  },
+  {
+    "id": "A16",
+    "question": "Who handles internal examination complaints?",
+    "expected_status": "ANSWERED"
+  },
+  {
+    "id": "A17",
+    "question": "What is the working time of the institute?",
+    "expected_status": "ANSWERED"
+  },
+  {
+    "id": "A18",
+    "question": "Are bags and mobile phones allowed in the library?",
+    "expected_status": "ANSWERED"
+  },
+  {
+    "id": "A19",
+    "question": "What happens to a lost or damaged library book?",
+    "expected_status": "ANSWERED"
+  },
+  {
+    "id": "A20",
+    "question": "Can students use a computer lab outside their scheduled time?",
+    "expected_status": "ANSWERED"
+  },
+  {
+    "id": "A21",
+    "question": "What happens after an academic year break?",
+    "expected_status": "ANSWERED"
+  },
+  {
+    "id": "A22",
+    "question": "What is the maximum period for completing the programme?",
+    "expected_status": "ANSWERED"
+  },
+  {
+    "id": "A23",
+    "question": "What is the pass mark for undergraduate programmes?",
+    "expected_status": "ANSWERED"
+  },
+  {
+    "id": "A24",
+    "question": "How many academic year breaks are permissible?",
+    "expected_status": "ANSWERED"
+  },
+  {
+    "id": "A25",
+    "question": "What is the penalty described for using unfair means in an examination?",
+    "expected_status": "ANSWERED"
+  }
+]

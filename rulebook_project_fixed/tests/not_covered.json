@@ -1,0 +1,127 @@
+[
+  {
+    "id": "N01",
+    "question": "What happens if I miss the semester-end examination because of my cousin’s wedding?",
+    "expected_status": "NOT_COVERED"
+  },
+  {
+    "id": "N02",
+    "question": "Can I get a refund of unused money left on my campus food card?",
+    "expected_status": "NOT_COVERED"
+  },
+  {
+    "id": "N03",
+    "question": "What is the exact grace period for submitting a late laboratory manual?",
+    "expected_status": "NOT_COVERED"
+  },
+  {
+    "id": "N04",
+    "question": "Can students bring a personal room heater into the common room?",
+    "expected_status": "NOT_COVERED"
+  },
+  {
+    "id": "N05",
+    "question": "What is the process for getting a duplicate degree certificate after water damage?",
+    "expected_status": "NOT_COVERED"
+  },
+  {
+    "id": "N06",
+    "question": "How many internal grace marks are awarded for representing the state in cricket?",
+    "expected_status": "NOT_COVERED"
+  },
+  {
+    "id": "N07",
+    "question": "What is the deadline for changing a hostel room during second year?",
+    "expected_status": "NOT_COVERED"
+  },
+  {
+    "id": "N08",
+    "question": "Are vegetarian and non-vegetarian food prepared in separate kitchens?",
+    "expected_status": "NOT_COVERED"
+  },
+  {
+    "id": "N09",
+    "question": "What fine applies to a library book overdue for exactly forty days?",
+    "expected_status": "NOT_COVERED"
+  },
+  {
+    "id": "N10",
+    "question": "Can a BCA student take an elective from the BBA curriculum in semester IV?",
+    "expected_status": "NOT_COVERED"
+  },
+  {
+    "id": "N11",
+    "question": "What is the formal procedure to change a Class Mentor?",
+    "expected_status": "NOT_COVERED"
+  },
+  {
+    "id": "N12",
+    "question": "What alumni discount applies when booking the auditorium privately?",
+    "expected_status": "NOT_COVERED"
+  },
+  {
+    "id": "N13",
+    "question": "How many compassionate-leave days are granted for a sibling’s marriage?",
+    "expected_status": "NOT_COVERED"
+  },
+  {
+    "id": "N14",
+    "question": "What is the maximum laptop wattage allowed in the computer labs?",
+    "expected_status": "NOT_COVERED"
+  },
+  {
+    "id": "N15",
+    "question": "Can a student appeal if a Proctor confiscates their mobile phone?",
+    "expected_status": "NOT_COVERED"
+  },
+  {
+    "id": "N16",
+    "question": "What electrical safety specifications must hardware lab projects meet?",
+    "expected_status": "NOT_COVERED"
+  },
+  {
+    "id": "N17",
+    "question": "Are academic fees fully refundable when a student leaves because of medical relocation?",
+    "expected_status": "NOT_COVERED"
+  },
+  {
+    "id": "N18",
+    "question": "Does the rulebook permit ChatGPT for summer project reports?",
+    "expected_status": "NOT_COVERED"
+  },
+  {
+    "id": "N19",
+    "question": "How do students obtain a bicycle parking permit?",
+    "expected_status": "NOT_COVERED"
+  },
+  {
+    "id": "N20",
+    "question": "What compensation is paid if lab equipment is damaged by a power fluctuation?",
+    "expected_status": "NOT_COVERED"
+  },
+  {
+    "id": "N21",
+    "question": "Can female students take overnight weekend leave during a cultural fest without a parental confirmation call?",
+    "expected_status": "NOT_COVERED"
+  },
+  {
+    "id": "N22",
+    "question": "What happens if a student misses the monthly Parents-Institute Interaction meeting?",
+    "expected_status": "NOT_COVERED"
+  },
+  {
+    "id": "N23",
+    "question": "Is there a sibling fee concession when two children are enrolled together?",
+    "expected_status": "NOT_COVERED"
+  },
+  {
+    "id": "N24",
+    "question": "What is the maximum permitted hair length under the dress code?",
+    "expected_status": "NOT_COVERED"
+  },
+  {
+    "id": "N25",
+    "question": "How are internal marks recalculated when a student misses a test to attend a national hackathon?",
+    "expected_status": "NOT_COVERED"
+  }
+]

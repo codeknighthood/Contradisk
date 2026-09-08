@@ -1,0 +1,52 @@
+[
+  {
+    "id": "C01",
+    "question": "Over what period is the 75% attendance requirement calculated for exam eligibility?",
+    "expected_status": "CONFLICT"
+  },
+  {
+    "id": "C02",
+    "question": "Is attendance calculated by semester or academic year?",
+    "expected_status": "CONFLICT"
+  },
+  {
+    "id": "C03",
+    "question": "What is the attendance period used for the 75% requirement?",
+    "expected_status": "CONFLICT"
+  },
+  {
+    "id": "C04",
+    "question": "A medically absent student has 65% attendance. Can the student appear for the exam?",
+    "expected_status": "CONFLICT"
+  },
+  {
+    "id": "C05",
+    "question": "What is the minimum attendance allowed for a student with approved medical grounds?",
+    "expected_status": "CONFLICT"
+  },
+  {
+    "id": "C06",
+    "question": "Does an approved medical certificate permit exam eligibility at 60% attendance?",
+    "expected_status": "CONFLICT"
+  },
+  {
+    "id": "C07",
+    "question": "What is the deadline for a second-year student to pay the annual academic fee?",
+    "expected_status": "CONFLICT"
+  },
+  {
+    "id": "C08",
+    "question": "Is the second-year annual fee due on 15 August or 20 August?",
+    "expected_status": "CONFLICT"
+  },
+  {
+    "id": "C09",
+    "question": "Which source should a second-year student use for the annual fee deadline?",
+    "expected_status": "CONFLICT"
+  },
+  {
+    "id": "C10",
+    "question": "The policy gives two different second-year fee deadlines. What does the corpus say?",
+    "expected_status": "CONFLICT"
+  }
+]

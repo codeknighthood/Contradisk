@@ -1,0 +1,16 @@
+{
+  "corpus_files": [
+    "Student-Rule-Book.pdf",
+    "demo_supplement.md",
+    "fee_deadlines.csv"
+  ],
+  "mixed_formats": [
+    "pdf",
+    "markdown",
+    "csv"
+  ],
+  "word_count": 13478,
+  "chunk_count": 166,
+  "contradiction_count": 3,
+  "note": "Three benchmark contradictions are explicitly registered in contradictions.json. The original PDF also contains independently observable inconsistencies."
+}

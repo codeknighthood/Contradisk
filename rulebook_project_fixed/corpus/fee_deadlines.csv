@@ -1,0 +1,7 @@
+source,programme_year,fee_type,deadline,notes
+fee_deadlines.csv,Second Year,Annual Academic Fee,20 August,Synthetic benchmark table; deliberately conflicts with §SUP-F2 for testing.
+fee_deadlines.csv,Third Year,Annual Academic Fee,20 August,Synthetic benchmark table.
+fee_deadlines.csv,First Year,Balance Academic Fee,As notified,Synthetic benchmark table.
+fee_deadlines.csv,Second Year,Security Deposit,At admission,Synthetic benchmark table.
+fee_deadlines.csv,Second Year,Reappear Examination Fee,Before application,Synthetic benchmark table.
+fee_deadlines.csv,Third Year,Reappear Examination Fee,Before application,Synthetic benchmark table.

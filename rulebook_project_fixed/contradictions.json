@@ -1,0 +1,91 @@
+[
+  {
+    "id": "C1",
+    "topic": "Attendance calculation period",
+    "description": "The corpus gives two different periods over which the 75% attendance requirement is calculated.",
+    "clauses": [
+      {
+        "source": "Student-Rule-Book.pdf",
+        "page": 6,
+        "section_ref": "6.1(a)",
+        "anchor": "minimum attendance of 75%",
+        "expected_text_contains": "Academic year"
+      },
+      {
+        "source": "demo_supplement.md",
+        "page": null,
+        "section_ref": "§SUP-6.1",
+        "anchor": "75% aggregate attendance in each semester",
+        "expected_text_contains": "each semester"
+      }
+    ],
+    "topics": [
+      "attendance",
+      "75 percent",
+      "75%",
+      "semester",
+      "academic year",
+      "exam eligibility",
+      "attendance calculation"
+    ]
+  },
+  {
+    "id": "C2",
+    "topic": "Medical attendance floor",
+    "description": "The synthetic supplement contains incompatible minimum attendance floors for approved medical cases.",
+    "clauses": [
+      {
+        "source": "demo_supplement.md",
+        "page": null,
+        "section_ref": "§SUP-7.1",
+        "anchor": "not less than 60% aggregate attendance",
+        "expected_text_contains": "60%"
+      },
+      {
+        "source": "demo_supplement.md",
+        "page": null,
+        "section_ref": "§SUP-7.2",
+        "anchor": "no student, including a student with approved medical grounds, may appear ... below 70%",
+        "expected_text_contains": "below 70%"
+      }
+    ],
+    "topics": [
+      "medical",
+      "medical exemption",
+      "medical attendance",
+      "condonation",
+      "60%",
+      "70%",
+      "illness"
+    ]
+  },
+  {
+    "id": "C3",
+    "topic": "Second-year annual fee deadline",
+    "description": "The synthetic markdown rule says 15 August while the fee table says 20 August.",
+    "clauses": [
+      {
+        "source": "demo_supplement.md",
+        "page": null,
+        "section_ref": "§SUP-F2",
+        "anchor": "due by 15 August",
+        "expected_text_contains": "15 August"
+      },
+      {
+        "source": "fee_deadlines.csv",
+        "page": null,
+        "section_ref": "CSV row 2",
+        "anchor": "Annual Academic Fee; deadline: 20 August",
+        "expected_text_contains": "20 August"
+      }
+    ],
+    "topics": [
+      "second year fee",
+      "annual academic fee",
+      "fee deadline",
+      "payment deadline",
+      "15 august",
+      "20 august"
+    ]
+  }
+]
